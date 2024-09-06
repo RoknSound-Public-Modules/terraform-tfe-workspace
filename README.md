@@ -1,2 +1,2 @@
 # terraform-tfe-workspace
-Terraform Workspace
+Terraform Module
